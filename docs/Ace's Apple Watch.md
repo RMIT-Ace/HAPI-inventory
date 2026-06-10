@@ -1,5 +1,3 @@
-# RMIT HAPI Inventory
-
 | | |
 |---|---|
 | Name | Ace's Apple Watch |

@@ -1,5 +1,3 @@
-# RMIT HAPI Inventory
-
 | | |
 |---|---|
 | Name | ADA-0 |

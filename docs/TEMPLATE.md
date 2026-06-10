@@ -1,6 +1,3 @@
-
-# RMIT HAPI Inventory
-
 | | |
 |---|---|
 | Name | VALUE |
@@ -12,3 +9,4 @@
 | Care Of | VALUE |
 | Storage size | VALUE |
 | OS | VALUE |
+| Loan Date | VALUE |
