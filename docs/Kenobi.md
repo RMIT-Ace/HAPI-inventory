@@ -10,3 +10,4 @@
 | Storage size | ? |
 | OS | ? |
 | Loan Date |  |
+| Return Date |  |

@@ -10,3 +10,5 @@
 | Storage size | VALUE |
 | OS | VALUE |
 | Loan Date | VALUE |
+| Return Date | VALUE |
+| Chip | VALUE |
