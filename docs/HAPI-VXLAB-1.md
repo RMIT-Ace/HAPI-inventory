@@ -7,7 +7,7 @@
 | Serial Number | P6GHXM0HNY |
 | Owner | Vxlab |
 | Care Of | Zhidian Lin |
-| Storage size | 1TB(In bold) |
+| Storage size | 1TB |
 | OS | 26.4 |
 | Loan Date | 28 May 2026 |
 | Return Date | 30 Jun 2026 |
