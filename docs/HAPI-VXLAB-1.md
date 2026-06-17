@@ -9,6 +9,6 @@
 | Care Of | Zhidian Lin |
 | Storage size | 1TB |
 | OS | 26.4 |
-| Loan Date | 28 May 2026 |
-| Return Date | 30 Jun 2026 |
+| Loan Date | 17 June 2026 |
+| Return Date | 30 June 2026 |
 | Chip | M2 |
