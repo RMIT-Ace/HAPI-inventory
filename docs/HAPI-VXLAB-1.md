@@ -6,7 +6,7 @@
 | Model Number | MWGP3X/A |
 | Serial Number | P6GHXM0HNY |
 | Owner | Vxlab |
-| Care Of | Zhidian Lin |
+| Care Of | |
 | Storage size | 1TB |
 | OS | 26.4 |
 | Loan Date | 17 June 2026 |

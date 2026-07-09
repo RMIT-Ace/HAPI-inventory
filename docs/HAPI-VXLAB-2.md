@@ -6,7 +6,7 @@
 | Model Number | MWJ23X/A |
 | Serial Number | M7DFM7N17D |
 | Owner | Vxlab |
-| Care Of | Zhidian Lin |
+| Care Of | |
 | Storage size | 1TB |
 | OS | 26.4 |
 | Loan Date | 17 June 2026 |
